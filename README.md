@@ -57,7 +57,7 @@ That is a looooong list... All the stuff is unsorted and maybe somethings are mi
 ### Tools
 <p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-239120?style=for-the-badge&logo=Yaml&logoColor=white" />
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-239120?style=for-the-badge&logo=NetBeans&logoColor=white" />
   <img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
